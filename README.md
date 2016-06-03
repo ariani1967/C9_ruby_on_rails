@@ -33,7 +33,14 @@ $ git push heroku master
 იძლევა შეცდომას- აჩმახებს ბაზაზე 'sqlite3, ამიტომ Gemfile-შიდავაკომენტარე:
 
                # gem 'sqlite3'
-               
+              
+ეშვება ამ მისამართზე:   https://sleepy-fjord-37819.herokuapp.com/ 
+
+შევუცვალე სახელი:
+
+heroku rename rails-from-c9 
+
+და ეშვება მისამართზე : https://rails-from-c9.herokuapp.com/
                
 
 
