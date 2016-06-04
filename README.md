@@ -18,6 +18,26 @@ To get started, just do the following:
 2. Preview your new app by clicking on the URL that appears in the Run panel below (https://first-rubyonrails-ariani1967.c9users.io/).
 
 
+## To run a Rails application:
+
+https://community.c9.io/t/running-a-rails-app/1615
+
+Open the terminal and type -- gem install rails
+
+When done, type -- rails new example -d mysql
+
+Edit your database configuration in -- config/database.ym
+
+Type--- rails s -b $IP -p $PORT
+
+## GIT
+
+მაგ:
+
+git commit -a -m "readme ფაილის შევსება"
+
+git push
+
 ### 1.4 Развертывание
 
 
@@ -34,13 +54,13 @@ $ git push heroku master
 
                # gem 'sqlite3'
               
-ეშვება ამ მისამართზე:   https://sleepy-fjord-37819.herokuapp.com/ 
+გაეშვა ამ მისამართზე:   https://sleepy-fjord-37819.herokuapp.com/ 
 
 შევუცვალე სახელი:
 
 heroku rename rails-from-c9 
 
-და ეშვება მისამართზე : https://rails-from-c9.herokuapp.com/
+ახლა უკვე ეშვება მისამართზე : https://rails-from-c9.herokuapp.com/
                
 
 
